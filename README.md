@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/whyujjwal">
+  <a href="https://github.com/Begarudev">
     <img src="https://komarev.com/ghpvc/?username=Begarudev&style=for-the-badge" alt="Profile Views">
   </a>
 </p>
